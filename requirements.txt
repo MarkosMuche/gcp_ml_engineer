@@ -1,0 +1,5 @@
+
+cloudml-hypertune
+tensorflow
+python-dotenv
+google-cloud-aiplatform
