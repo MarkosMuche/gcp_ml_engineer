@@ -53,3 +53,7 @@ gradleBuild
 Podfile.lock
 Pods
 xcuserdata
+vertex_pipeline/aclImdb_v1.tar.gz
+vertex_pipeline/pipe.json
+vertex_pipeline/pipe.yaml
+vertex_pipeline/try.py
